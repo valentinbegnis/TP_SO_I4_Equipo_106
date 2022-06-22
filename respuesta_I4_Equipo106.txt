@@ -1,0 +1,9 @@
+A- Color azul
+B- Color amarillo
+C- Color amarillo
+D- El favicon de BETA
+E- BETA y GAMMA tuvieron problemas al hacer el push
+F- El problema es que al querer pushear inmediatamente despues de ALFA, tanto BETA como GAMMA no tienen los ultimos cambios del repositorio remoto en su repositorio local.
+G- La solucion seria hacer un pull, previo al push, para tener asi los ultimos cambios en nuestros repositorios locales. Ademas, hay que resolver los posibles conflictos que puedan ir surgiendo.
+H- Al hacer push -f, mi etiqueta de parrafo pisa el cambio hecho por el anterior integrante.
+I- Todos los integrantes tendrian que agregar su etiqueta <p>, actualizando antes su repositorio local. Una vez agregadas, habria que hacer un merge a DESARROLLO. 
