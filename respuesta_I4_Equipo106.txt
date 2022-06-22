@@ -1,3 +1,9 @@
+ALFA - Valentino Bastardo
+BETA - Jonathan Alanoca
+GAMMA - Valentin Begnis
+
+Respuestas interaccion 4:
+
 A- Color azul
 B- Color amarillo
 C- Color amarillo
